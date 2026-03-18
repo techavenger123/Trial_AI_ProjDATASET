@@ -26,7 +26,7 @@ MAX_WORKERS = 5    # parallel threads
 client = NeMoDataDesignerClient(
     base_url="https://ai.api.nvidia.com/v1/nemo/dd",
     default_headers={
-        "Authorization": "Bearer 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"
+        "Authorization": ""
     }
 )
 

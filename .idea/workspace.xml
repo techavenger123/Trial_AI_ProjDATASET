@@ -4,25 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/analysis/equipment_anomaly_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/analysis/summary_report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analyze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_synthesier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Trial_AI_ProjDATASET.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Trial_AI_ProjDATASET.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="Results.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/summary_report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_synthesier.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_synthesier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "techavenger123"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;techavenger123&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/techavenger123/Trial_AI_ProjDATASET.git",
-    "accountId": "e6580030-06c1-4ac8-ba14-6724ebda7901"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/techavenger123/Trial_AI_ProjDATASET.git&quot;,
+    &quot;accountId&quot;: &quot;e6580030-06c1-4ac8-ba14-6724ebda7901&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -63,34 +48,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.data_analyze.executor": "Run",
-    "Python.data_synthesier.executor": "Run",
-    "Python.dataset.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.main2.executor": "Run",
-    "Python.main3.executor": "Run",
-    "Python.main4.executor": "Run",
-    "Python.main5.executor": "Run",
-    "Python.main6.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "F:/Mihir/Trial_AI_ProjDATASET/analysis",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "show.migrate.to.gradle.popup": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.data_analyze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_synthesier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Mihir/Trial_AI_ProjDATASET/analysis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Mihir\Trial_AI_ProjDATASET\analysis" />
@@ -240,10 +226,59 @@
       <workItem from="1773813718617" duration="8000" />
       <workItem from="1773813775693" duration="13000" />
     </task>
+    <task id="LOCAL-00001" summary="Random Forest">
+      <option name="closed" value="true" />
+      <created>1773834468061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834468061</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hybrid LGBM + Random Forest">
+      <option name="closed" value="true" />
+      <created>1773834496479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834496479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Data Analysis">
+      <option name="closed" value="true" />
+      <created>1773834511120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834511120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Synthetic Data Generation.">
+      <option name="closed" value="true" />
+      <created>1773834555662</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834555662</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Results.">
+      <option name="closed" value="true" />
+      <created>1773834569491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834569491</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Random Forest" />
+    <MESSAGE value="Hybrid LGBM + Random Forest" />
+    <MESSAGE value="Data Analysis" />
+    <MESSAGE value="Synthetic Data Generation." />
+    <MESSAGE value="Results." />
+    <option name="LAST_COMMIT_MESSAGE" value="Results." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Trial_AI_ProjDATASET$main.coverage" NAME="main Coverage Results" MODIFIED="1773804437118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
