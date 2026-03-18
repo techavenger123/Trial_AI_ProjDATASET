@@ -1,0 +1,130 @@
+=== BASIC INFO ===
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 10000 entries, 0 to 9999
+Data columns (total 7 columns):
+ #   Column       Non-Null Count  Dtype  
+---  ------       --------------  -----  
+ 0   equipment    10000 non-null  object 
+ 1   location     10000 non-null  object 
+ 2   temperature  10000 non-null  float64
+ 3   pressure     10000 non-null  float64
+ 4   vibration    10000 non-null  float64
+ 5   humidity     10000 non-null  float64
+ 6   faulty       10000 non-null  int64  
+dtypes: float64(4), int64(1), object(2)
+memory usage: 547.0+ KB
+
+
+=== DESCRIBE ===
+         equipment location  ...      humidity        faulty
+count        10000    10000  ...  10000.000000  10000.000000
+unique           3        5  ...           NaN           NaN
+top     Compressor  Atlanta  ...           NaN           NaN
+freq          3354     2039  ...           NaN           NaN
+mean           NaN      NaN  ...     54.986167      0.099900
+std            NaN      NaN  ...     14.748496      0.299882
+min            NaN      NaN  ...     20.000000      0.000000
+25%            NaN      NaN  ...     45.109708      0.000000
+50%            NaN      NaN  ...     54.897596      0.000000
+75%            NaN      NaN  ...     65.099087      0.000000
+max            NaN      NaN  ...     90.000000      1.000000
+
+[11 rows x 7 columns]
+
+=== MISSING VALUES ===
+equipment      0
+location       0
+temperature    0
+pressure       0
+vibration      0
+humidity       0
+faulty         0
+dtype: int64
+
+=== UNIQUE COUNTS ===
+equipment          3
+location           5
+temperature    10000
+pressure        9993
+vibration       9971
+humidity        9805
+faulty             2
+dtype: int64
+
+=== VALUE COUNTS ===
+
+--- equipment ---
+equipment
+Compressor    3354
+Turbine       3344
+Pump          3302
+Name: count, dtype: int64
+--- location ---
+location
+Atlanta          2039
+Chicago          2025
+Houston          2017
+New York         1989
+San Francisco    1930
+Name: count, dtype: int64
+--- temperature ---
+temperature
+78.640705    1
+60.357012    1
+68.508691    1
+69.524031    1
+74.142073    1
+            ..
+81.068297    1
+80.418656    1
+74.452168    1
+56.723638    1
+80.937759    1
+Name: count, Length: 10000, dtype: int64
+--- pressure ---
+pressure
+3.620798     8
+26.706808    1
+33.061843    1
+45.863770    1
+36.133815    1
+            ..
+24.988337    1
+35.741781    1
+33.641084    1
+50.226561    1
+46.036498    1
+Name: count, Length: 9993, dtype: int64
+--- vibration ---
+vibration
+-0.428188    30
+ 2.025399     1
+ 0.528557     1
+ 1.955155     1
+ 1.704728     1
+             ..
+ 0.769419     1
+ 1.342022     1
+ 0.278675     1
+-0.151137     1
+ 0.235069     1
+Name: count, Length: 9971, dtype: int64
+--- humidity ---
+humidity
+90.000000    101
+20.000000     96
+43.092409      1
+29.947504      1
+68.507973      1
+            ... 
+49.066375      1
+46.449985      1
+52.720831      1
+53.802310      1
+65.725541      1
+Name: count, Length: 9805, dtype: int64
+--- faulty ---
+faulty
+0    9001
+1     999
+Name: count, dtype: int64
