@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="Results.Updates">
-      <change afterPath="$PROJECT_DIR$/main10_claude_combnation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="With more combination of n_estimators, learning rate etc..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -285,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774419156909</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="With more combination of n_estimators, learning rate etc...">
+      <option name="closed" value="true" />
+      <created>1774430255153</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774430255153</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +303,8 @@
     <MESSAGE value="Synthetic Data Generation." />
     <MESSAGE value="Results." />
     <MESSAGE value="Results.Updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Results.Updates" />
+    <MESSAGE value="With more combination of n_estimators, learning rate etc..." />
+    <option name="LAST_COMMIT_MESSAGE" value="With more combination of n_estimators, learning rate etc..." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Trial_AI_ProjDATASET$main.coverage" NAME="main Coverage Results" MODIFIED="1773804437118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
