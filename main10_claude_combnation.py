@@ -46,7 +46,7 @@ lr_log    = np.logspace(-3, -1, 20)
 lr_linear = np.linspace(0.005, 0.1, 20)
 LEARNING_RATES = np.unique(np.round(np.concatenate([lr_log, lr_linear]), 4)).tolist()
 
-N_ESTIMATORS = list(range(15, 403, 1))   # [25, 50, 75, ..., 400]
+N_ESTIMATORS = list(range(15, 403, 10))   # [25, 50, 75, ..., 400]
 
 # (train_ratio, val_ratio, test_ratio)
 SPLIT_RATIOS = [
@@ -83,8 +83,8 @@ FIXED_PARAMS = dict(
     verbose=-1,
 )
 
-RESULTS_DIR = "results"
-PLOTS_DIR   = "plots/dense_combo"
+RESULTS_DIR = "results/new"
+PLOTS_DIR   = "plots/dense_combo2"
 os.makedirs(RESULTS_DIR, exist_ok=True)
 os.makedirs(PLOTS_DIR,   exist_ok=True)
 
