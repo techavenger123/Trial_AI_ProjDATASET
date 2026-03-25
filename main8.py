@@ -22,11 +22,12 @@ start_time = time.time()
 
 # --- Load Data ---
 df = pd.read_csv("industrial-equipment-monitoring-dataset/versions/1/equipment_anomaly_data.csv")
+df=df.drop("location", axis=1)
 
 X = df.drop("faulty", axis=1)
 y = df["faulty"]
 
-categorical_cols = ["equipment", "location"]
+categorical_cols = ["equipment"]
 numerical_cols = ["temperature", "pressure", "vibration", "humidity"]
 
 preprocessor = ColumnTransformer([
@@ -78,7 +79,7 @@ for lr in learning_rates:
             for nl in num_leaves_values:
 
                 run_count += 1
-                print(f"[{run_count}/{total_runs}] n={n}, lr={lr}, depth={md}, leaves={nl}")
+
 
                 model = Pipeline([
                     ("preprocessor", preprocessor),
@@ -109,7 +110,7 @@ for lr in learning_rates:
                     "num_leaves": nl,
                     "val_auc": val_auc
                 })
-
+                print(f"[{run_count}/{total_runs}] n={n}, lr={lr}, depth={md}, leaves={nl}, val_auc={val_auc}")
                 # Save every 200 runs
                 if run_count % 200 == 0:
                     pd.DataFrame(results).to_csv("results/LGBM_ULTRA_PROGRESS.csv", index=False)
@@ -120,7 +121,7 @@ for lr in learning_rates:
 results_df = pd.DataFrame(results)
 results_df.to_csv("results/LGBM_ULTRA_RESULTS.csv", index=False)
 
-print("\n✅ Saved: results/LGBM_ULTRA_RESULTS.csv")
+print("\n✅ Saved: results/LGBM_ULTRA_RESULTS_location_dropped.csv")
 
 # =========================
 # BEST CONFIG

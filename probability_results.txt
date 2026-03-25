@@ -1,0 +1,54 @@
+Processing column: temperature
+→ Continuous data detected, applying binning
+temperature
+(10.13, 33.506]       0.017205
+(33.506, 56.743]      0.101929
+(56.743, 79.98]       0.688999
+(79.98, 103.217]      0.158759
+(103.217, 126.454]    0.016423
+(126.454, 149.69]     0.016684
+Name: proportion, dtype: float64
+
+Processing column: pressure
+→ Continuous data detected, applying binning
+pressure
+(3.545, 16.332]     0.024244
+(16.332, 29.043]    0.209984
+(29.043, 41.754]    0.536105
+(41.754, 54.465]    0.190172
+(54.465, 67.177]    0.023983
+(67.177, 79.888]    0.015511
+Name: proportion, dtype: float64
+
+Processing column: vibration
+→ Continuous data detected, applying binning
+vibration
+(-0.434, 0.475]    0.027633
+(0.475, 1.378]     0.358837
+(1.378, 2.281]     0.500521
+(2.281, 3.184]     0.075991
+(3.184, 4.087]     0.018379
+(4.087, 4.991]     0.018639
+Name: proportion, dtype: float64
+
+Processing column: humidity
+→ Continuous data detected, applying binning
+humidity
+(10.135, 23.51]    0.020203
+(23.51, 36.805]    0.092544
+(36.805, 50.1]     0.389859
+(50.1, 63.395]     0.384254
+(63.395, 76.69]    0.095412
+(76.69, 89.985]    0.017727
+Name: proportion, dtype: float64
+
+Processing column: faulty
+faulty
+0.0    0.900026
+1.0    0.099974
+Name: proportion, dtype: float64
+temperature → mean: 70.92247815645663, std: 16.199003080155524
+pressure → mean: 35.73804828794924, std: 10.380916457583007
+vibration → mean: 1.611809197352422, std: 0.7285126205763464
+humidity → mean: 50.01657358192021, std: 11.840707004131547
+faulty → mean: 0.09997393117831074, std: 0.2999652384244966
