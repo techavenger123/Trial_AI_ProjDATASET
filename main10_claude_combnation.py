@@ -54,6 +54,7 @@ SPLIT_RATIOS = [
     (0.70, 0.15, 0.15),
     (0.70, 0.20, 0.10),
     (0.80, 0.10, 0.10),
+    (0.60, 0.10, 0.30),
 ]
 
 print(f"Learning rates  : {len(LEARNING_RATES)} values → {LEARNING_RATES}")
