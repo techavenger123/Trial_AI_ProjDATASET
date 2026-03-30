@@ -54,9 +54,7 @@ SPLIT_RATIOS = [
     (0.70, 0.15, 0.15),
     (0.70, 0.20, 0.10),
     (0.80, 0.10, 0.10),
-    (0.60, 0.10, 0.30),
-    (0.50, 0.20, 0.30),
-    (0.50, 0.20, 0.30)
+    (0.90,0.05,0.05)
 ]
 
 print(f"Learning rates  : {len(LEARNING_RATES)} values → {LEARNING_RATES}")
@@ -67,7 +65,7 @@ print(f"TOTAL RUNS      : {len(LEARNING_RATES) * len(N_ESTIMATORS) * len(SPLIT_R
 # ──────────────────────────────────────────────
 # CONFIG
 # ──────────────────────────────────────────────
-DATA_PATH    = "industrial-equipment-monitoring-dataset/versions/1/equipment_anomaly_data.csv"
+DATA_PATH    = "synthetic_nim_parallel_10000.csv"
 DROP_COLS    = ["location"]
 TARGET       = "faulty"
 CAT_COLS     = ["equipment"]
@@ -86,8 +84,8 @@ FIXED_PARAMS = dict(
     verbose=-1,
 )
 
-RESULTS_DIR = "results/new2"
-PLOTS_DIR   = "plots/dense_combo3"
+RESULTS_DIR = "results/synthetic"
+PLOTS_DIR   = "plots/synthetic"
 os.makedirs(RESULTS_DIR, exist_ok=True)
 os.makedirs(PLOTS_DIR,   exist_ok=True)
 
