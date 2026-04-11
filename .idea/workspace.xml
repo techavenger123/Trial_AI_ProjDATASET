@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -374,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775717641119</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset.">
+      <option name="closed" value="true" />
+      <created>1775874541981</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1775874541981</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
