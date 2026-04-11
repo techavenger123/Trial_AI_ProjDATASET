@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synthetic1/synthetic_plot/overfit_heatmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synthetic1/synthetic_plot/top30_scatter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synthetic1/synthetic_plot/train_vs_val_best_split.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synthetic1/synthetic_plot/val_heatmaps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synthetic1/synthetic_plot/val_metrics_vs_maxfeat_by_split.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synthetic1/synthetic_plot/val_metrics_vs_n_by_split.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synthetic1/synthetic_result/dense_checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Synthetic1/synthetic_result/dense_results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/synthetic/dense_checkpoint.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/synthetic/dense_results.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -376,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775442613753</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset.">
+      <option name="closed" value="true" />
+      <created>1775717641119</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1775717641119</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
