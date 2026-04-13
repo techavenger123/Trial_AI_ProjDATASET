@@ -1,3 +1,11 @@
+---
+title: Fault Detection For Industry
+emoji: ??
+colorFrom: green
+colorTo: red
+sdk: docker
+app_port: 7860
+---
 # FaultSense — Industrial Equipment Fault Predictor
 
 > Real-time binary fault detection for industrial equipment using LightGBM, served via a Flask web application.
