@@ -1,0 +1,7 @@
+*
+!app.py
+!requirements.txt
+!Dockerfile
+!README.md
+!synthetic_nim_parallel_10000.csv
+!.gitignore
