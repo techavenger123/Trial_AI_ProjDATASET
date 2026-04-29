@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;techavenger123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/techavenger123/Trial_AI_ProjDATASET.git&quot;,
+    &quot;accountId&quot;: &quot;e6580030-06c1-4ac8-ba14-6724ebda7901&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3B6JWDPjBLAcA2ULbXfjKXD0T10" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app (1).executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.app2.executor": "Run",
+    "Python.data_analyze.executor": "Run",
+    "Python.data_synthesier.executor": "Run",
+    "Python.datafinder.executor": "Run",
+    "Python.dataset.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main10_claude_combnation.executor": "Run",
+    "Python.main11.executor": "Run",
+    "Python.main2.executor": "Run",
+    "Python.main3.executor": "Run",
+    "Python.main4.executor": "Run",
+    "Python.main5.executor": "Run",
+    "Python.main6.executor": "Run",
+    "Python.main7.executor": "Run",
+    "Python.main8.executor": "Run",
+    "Python.main9_by_claude.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Mihir/Trial_AI_ProjDATASET/analysis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Mihir\Trial_AI_ProjDATASET\analysis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Mihir\Trial_AI_ProjDATASET\Synthetic1" />
+      <recent name="F:\Mihir\Trial_AI_ProjDATASET\analysis" />
+      <recent name="F:\Mihir\Trial_AI_ProjDATASET" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main11">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Trial_AI_ProjDATASET" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fault_Detection_For_Industry" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fault_Detection_For_Industry/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Trial_AI_ProjDATASET" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_analyze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Trial_AI_ProjDATASET" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_analyze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datafinder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Trial_AI_ProjDATASET" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datafinder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Trial_AI_ProjDATASET" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main11" />
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.datafinder" />
+        <item itemvalue="Python.data_analyze" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25280c0f-fee4-4f05-bf0d-91dfd7fa214c" name="Changes" comment="" />
+      <created>1773803616000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773803616000</updated>
+      <workItem from="1773803618098" duration="1019000" />
+      <workItem from="1773813718617" duration="8000" />
+      <workItem from="1773813775693" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="Random Forest">
+      <option name="closed" value="true" />
+      <created>1773834468061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834468061</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hybrid LGBM + Random Forest">
+      <option name="closed" value="true" />
+      <created>1773834496479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834496479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Data Analysis">
+      <option name="closed" value="true" />
+      <created>1773834511120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834511120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Synthetic Data Generation.">
+      <option name="closed" value="true" />
+      <created>1773834555662</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834555662</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Results.">
+      <option name="closed" value="true" />
+      <created>1773834569491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773834569491</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Results.Updates">
+      <option name="closed" value="true" />
+      <created>1773835170295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773835170295</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Results.Updates">
+      <option name="closed" value="true" />
+      <created>1774419156909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774419156909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="With more combination of n_estimators, learning rate etc...">
+      <option name="closed" value="true" />
+      <created>1774430255153</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774430255153</updated>
+    </task>
+    <task id="LOCAL-00009" summary="With more combination of n_estimators, learning rate etc...">
+      <option name="closed" value="true" />
+      <created>1774430420135</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774430420135</updated>
+    </task>
+    <task id="LOCAL-00010" summary="With more combination of n_estimators, learning rate etc...">
+      <option name="closed" value="true" />
+      <created>1774431119365</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774431119365</updated>
+    </task>
+    <task id="LOCAL-00011" summary="With more combination of n_estimators, learning rate etc...">
+      <option name="closed" value="true" />
+      <created>1774434814873</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774434814873</updated>
+    </task>
+    <task id="LOCAL-00012" summary="N_Estimator Combination of 5">
+      <option name="closed" value="true" />
+      <created>1774664811283</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1774664811283</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Split Combination of 60,10,30">
+      <option name="closed" value="true" />
+      <created>1774665902455</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1774665902455</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Split Combination of 50,20,30 / 50,30,20">
+      <option name="closed" value="true" />
+      <created>1774668305963</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1774668305963</updated>
+    </task>
+    <task id="LOCAL-00015" summary="removed Split Combination of 50,20,30 / 50,30,20">
+      <option name="closed" value="true" />
+      <created>1774847084660</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1774847084660</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset.">
+      <option name="closed" value="true" />
+      <created>1775442613753</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1775442613753</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset.">
+      <option name="closed" value="true" />
+      <created>1775717641119</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1775717641119</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset.">
+      <option name="closed" value="true" />
+      <created>1775874541981</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1775874541981</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Random Forest" />
+    <MESSAGE value="Hybrid LGBM + Random Forest" />
+    <MESSAGE value="Data Analysis" />
+    <MESSAGE value="Synthetic Data Generation." />
+    <MESSAGE value="Results." />
+    <MESSAGE value="Results.Updates" />
+    <MESSAGE value="With more combination of n_estimators, learning rate etc..." />
+    <MESSAGE value="N_Estimator Combination of 5" />
+    <MESSAGE value="Split Combination of 60,10,30" />
+    <MESSAGE value="Split Combination of 50,20,30 / 50,30,20" />
+    <MESSAGE value="removed Split Combination of 50,20,30 / 50,30,20" />
+    <MESSAGE value="update" />
+    <MESSAGE value="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset." />
+    <option name="LAST_COMMIT_MESSAGE" value="added Split Combination of 50,20,30 / 50,30,20 with new features on synthetic dataset." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Trial_AI_ProjDATASET$main.coverage" NAME="main Coverage Results" MODIFIED="1773804437118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Trial_AI_ProjDATASET$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1773803658149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
